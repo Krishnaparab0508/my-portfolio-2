@@ -1,0 +1,92 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #8701fe, #5ce1e6);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+.header-logo {
+  border-radius: 50%;
+}
+.container-1 {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  align-items: end;
+  font-size: large;
+}
+.container-2 {
+  display: flex;
+  justify-content: space-around;
+}
+.container-head {
+  display: flex;
+  width: 75%;
+  flex-wrap: wrap;
+  justify-content: end;
+  font-weight: bold;
+}
+.button {
+  font-weight: bold;
+}
+.bg-color {
+  background-color: #092a57;
+}
+.heading {
+  font-family: "Cardo", serif;
+  color: white;
+}
+
+#heading2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+}
+span,
+.p-head {
+  color: lightseagreen;
+}
+.container-about {
+  display: flex;
+  flex-direction: column;
+}
+#heading3 {
+  color: gray;
+  font-weight: 500;
+  width: 90%;
+}
+.box {
+  box-shadow: 12px 12px 2px 1px #00bfff;
+}
+.projects {
+  width: 50%;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+.p1-image {
+  width: 50%;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+.projects2 {
+  width: 50%;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+}
+.bt{
+    display: flex;
+    justify-content: center;
+}
+.project-head{
+    color: aqua;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    
+}
+.bottom-container{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
